@@ -1,0 +1,9 @@
+# Dataset Path
+path: /Users/bhanuprakash/Documents/trainings/YOLO/new_dataset
+
+train: /Users/bhanuprakash/Documents/trainings/YOLO/new_dataset/images/train
+val: /Users/bhanuprakash/Documents/trainings/YOLO/new_dataset/images/val
+test: /Users/bhanuprakash/Documents/trainings/YOLO/new_dataset/images/test
+
+# Class Names
+names: [with_mask, without_mask, mask_weared_incorrect, others]
